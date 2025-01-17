@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\bin\Debug\net8.0\TypeCastingPractice.exe
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\bin\Debug\net8.0\TypeCastingPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\bin\Debug\net8.0\TypeCastingPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\bin\Debug\net8.0\TypeCastingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\bin\Debug\net8.0\TypeCastingPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\refint\TypeCastingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\TypeCastingPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\TypeCastingPractice\TypeCastingPractice\obj\Debug\net8.0\ref\TypeCastingPractice.dll

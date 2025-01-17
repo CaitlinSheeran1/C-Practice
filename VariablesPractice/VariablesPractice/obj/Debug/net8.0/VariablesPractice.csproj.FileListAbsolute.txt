@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\bin\Debug\net8.0\VariablesPractice.exe
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\bin\Debug\net8.0\VariablesPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\bin\Debug\net8.0\VariablesPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\bin\Debug\net8.0\VariablesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\bin\Debug\net8.0\VariablesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\refint\VariablesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\VariablesPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\VariablesPractice\VariablesPractice\obj\Debug\net8.0\ref\VariablesPractice.dll
