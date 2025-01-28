@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\bin\Debug\net8.0\ParamsKeywordPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\bin\Debug\net8.0\ParamsKeywordPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\bin\Debug\net8.0\ParamsKeywordPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\bin\Debug\net8.0\ParamsKeywordPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\bin\Debug\net8.0\ParamsKeywordPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\refint\ParamsKeywordPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ParamsKeywordPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ParamsKeywordPractice\ParamsKeywordPractice\obj\Debug\net8.0\ref\ParamsKeywordPractice.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#Practice\\ClassPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37925B91-A2D1-4C6C-810A-D537FB9F12B2}|ClassPractice\\ClassPractice.csproj|c:\\users\\caitl\\desktop\\c#practice\\classpractice\\classpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37925B91-A2D1-4C6C-810A-D537FB9F12B2}|ClassPractice\\ClassPractice.csproj|solutionrelative:classpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37925B91-A2D1-4C6C-810A-D537FB9F12B2}|ClassPractice\\ClassPractice.csproj|c:\\users\\caitl\\desktop\\c#practice\\classpractice\\classpractice\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37925B91-A2D1-4C6C-810A-D537FB9F12B2}|ClassPractice\\ClassPractice.csproj|solutionrelative:classpractice\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#Practice\\ClassPractice\\ClassPractice\\Messages.cs",
+              "RelativeDocumentMoniker": "ClassPractice\\Messages.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#Practice\\ClassPractice\\ClassPractice\\Messages.cs",
+              "RelativeToolTip": "ClassPractice\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:17:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#Practice\\ClassPractice\\ClassPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ClassPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#Practice\\ClassPractice\\ClassPractice\\Program.cs",
+              "RelativeToolTip": "ClassPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:13:19.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

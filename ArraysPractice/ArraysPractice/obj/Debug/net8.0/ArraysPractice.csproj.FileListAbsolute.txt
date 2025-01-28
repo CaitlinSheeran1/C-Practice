@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\bin\Debug\net8.0\ArraysPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\bin\Debug\net8.0\ArraysPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\bin\Debug\net8.0\ArraysPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\bin\Debug\net8.0\ArraysPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\bin\Debug\net8.0\ArraysPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\refint\ArraysPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ArraysPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ArraysPractice\ArraysPractice\obj\Debug\net8.0\ref\ArraysPractice.dll

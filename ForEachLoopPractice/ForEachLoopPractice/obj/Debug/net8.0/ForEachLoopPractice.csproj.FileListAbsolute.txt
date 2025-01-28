@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\bin\Debug\net8.0\ForEachLoopPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\bin\Debug\net8.0\ForEachLoopPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\bin\Debug\net8.0\ForEachLoopPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\bin\Debug\net8.0\ForEachLoopPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\bin\Debug\net8.0\ForEachLoopPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\refint\ForEachLoopPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ForEachLoopPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ForEachLoopPractice\ForEachLoopPractice\obj\Debug\net8.0\ref\ForEachLoopPractice.dll
