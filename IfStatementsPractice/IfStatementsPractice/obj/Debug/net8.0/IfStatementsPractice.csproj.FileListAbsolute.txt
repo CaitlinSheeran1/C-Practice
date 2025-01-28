@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\bin\Debug\net8.0\IfStatementsPractice.exe
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\bin\Debug\net8.0\IfStatementsPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\bin\Debug\net8.0\IfStatementsPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\bin\Debug\net8.0\IfStatementsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\bin\Debug\net8.0\IfStatementsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\refint\IfStatementsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\IfStatementsPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\IfStatementsPractice\IfStatementsPractice\obj\Debug\net8.0\ref\IfStatementsPractice.dll

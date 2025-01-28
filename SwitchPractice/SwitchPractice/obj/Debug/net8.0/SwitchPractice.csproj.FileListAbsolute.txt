@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\bin\Debug\net8.0\SwitchPractice.exe
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\bin\Debug\net8.0\SwitchPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\bin\Debug\net8.0\SwitchPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\bin\Debug\net8.0\SwitchPractice.dll
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\bin\Debug\net8.0\SwitchPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.dll
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\refint\SwitchPractice.dll
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\SwitchPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\SwitchPractice\SwitchPractice\obj\Debug\net8.0\ref\SwitchPractice.dll

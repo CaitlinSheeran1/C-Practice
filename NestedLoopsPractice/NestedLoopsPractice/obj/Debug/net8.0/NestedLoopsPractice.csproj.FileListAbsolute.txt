@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\bin\Debug\net8.0\NestedLoopsPractice.exe
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\bin\Debug\net8.0\NestedLoopsPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\bin\Debug\net8.0\NestedLoopsPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\bin\Debug\net8.0\NestedLoopsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\bin\Debug\net8.0\NestedLoopsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\refint\NestedLoopsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\NestedLoopsPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\NestedLoopsPractice\NestedLoopsPractice\obj\Debug\net8.0\ref\NestedLoopsPractice.dll
