@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\bin\Debug\net8.0\ObjectPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\bin\Debug\net8.0\ObjectPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\bin\Debug\net8.0\ObjectPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\bin\Debug\net8.0\ObjectPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\bin\Debug\net8.0\ObjectPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\refint\ObjectPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ObjectPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ObjectPractice\ObjectPractice\obj\Debug\net8.0\ref\ObjectPractice.dll

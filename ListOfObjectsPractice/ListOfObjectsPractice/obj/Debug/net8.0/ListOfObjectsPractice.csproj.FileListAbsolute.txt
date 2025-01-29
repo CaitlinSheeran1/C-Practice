@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\bin\Debug\net8.0\ListOfObjectsPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\bin\Debug\net8.0\ListOfObjectsPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\bin\Debug\net8.0\ListOfObjectsPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\bin\Debug\net8.0\ListOfObjectsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\bin\Debug\net8.0\ListOfObjectsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\refint\ListOfObjectsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ListOfObjectsPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ListOfObjectsPractice\ListOfObjectsPractice\obj\Debug\net8.0\ref\ListOfObjectsPractice.dll

@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\bin\Debug\net8.0\ConstructorsPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\bin\Debug\net8.0\ConstructorsPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\bin\Debug\net8.0\ConstructorsPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\bin\Debug\net8.0\ConstructorsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\bin\Debug\net8.0\ConstructorsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\refint\ConstructorsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ConstructorsPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ConstructorsPractice\ConstructorsPractice\obj\Debug\net8.0\ref\ConstructorsPractice.dll

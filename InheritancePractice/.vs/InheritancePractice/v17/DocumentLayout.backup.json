@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#Practice\\InheritancePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE2037D-4C04-4688-AF63-3073CFD68130}|InheritancePractice\\InheritancePractice.csproj|c:\\users\\caitl\\desktop\\c#practice\\inheritancepractice\\inheritancepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE2037D-4C04-4688-AF63-3073CFD68130}|InheritancePractice\\InheritancePractice.csproj|solutionrelative:inheritancepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#Practice\\InheritancePractice\\InheritancePractice\\Program.cs",
+              "RelativeDocumentMoniker": "InheritancePractice\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#Practice\\InheritancePractice\\InheritancePractice\\Program.cs",
+              "RelativeToolTip": "InheritancePractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T03:41:17.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

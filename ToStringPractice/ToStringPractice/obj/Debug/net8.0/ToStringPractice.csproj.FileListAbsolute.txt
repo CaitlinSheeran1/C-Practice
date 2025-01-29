@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\bin\Debug\net8.0\ToStringPractice.exe
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\bin\Debug\net8.0\ToStringPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\bin\Debug\net8.0\ToStringPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\bin\Debug\net8.0\ToStringPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\bin\Debug\net8.0\ToStringPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\refint\ToStringPractice.dll
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ToStringPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\ToStringPractice\ToStringPractice\obj\Debug\net8.0\ref\ToStringPractice.dll

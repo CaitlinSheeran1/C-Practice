@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\bin\Debug\net8.0\MultiThreadingPractice.exe
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\bin\Debug\net8.0\MultiThreadingPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\bin\Debug\net8.0\MultiThreadingPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\bin\Debug\net8.0\MultiThreadingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\bin\Debug\net8.0\MultiThreadingPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\refint\MultiThreadingPractice.dll
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\MultiThreadingPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\MultiThreadingPractice\MultiThreadingPractice\obj\Debug\net8.0\ref\MultiThreadingPractice.dll

@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.exe
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.dll
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\bin\Debug\net8.0\StaticPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.dll
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\refint\StaticPractice.dll
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\StaticPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\StaticPractice\StaticPractice\obj\Debug\net8.0\ref\StaticPractice.dll

@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\bin\Debug\net8.0\EnumsPractice.exe
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\bin\Debug\net8.0\EnumsPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\bin\Debug\net8.0\EnumsPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\bin\Debug\net8.0\EnumsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\bin\Debug\net8.0\EnumsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\refint\EnumsPractice.dll
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\EnumsPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\EnumsPractice\EnumsPractice\obj\Debug\net8.0\ref\EnumsPractice.dll

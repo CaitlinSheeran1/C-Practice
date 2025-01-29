@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\bin\Debug\net8.0\AutoImplementedPropertiesPractice.exe
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\bin\Debug\net8.0\AutoImplementedPropertiesPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\bin\Debug\net8.0\AutoImplementedPropertiesPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\bin\Debug\net8.0\AutoImplementedPropertiesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\bin\Debug\net8.0\AutoImplementedPropertiesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\refint\AutoImplementedPropertiesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\AutoImplementedPropertiesPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\AutoImplementedPropertiesPractice\AutoImplementedPropertiesPractice\obj\Debug\net8.0\ref\AutoImplementedPropertiesPractice.dll

@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\bin\Debug\net8.0\InterfacesPractice.exe
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\bin\Debug\net8.0\InterfacesPractice.deps.json
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\bin\Debug\net8.0\InterfacesPractice.runtimeconfig.json
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\bin\Debug\net8.0\InterfacesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\bin\Debug\net8.0\InterfacesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\refint\InterfacesPractice.dll
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.pdb
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\InterfacesPractice.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#Practice\InterfacesPractice\InterfacesPractice\obj\Debug\net8.0\ref\InterfacesPractice.dll
